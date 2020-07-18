@@ -9,6 +9,9 @@
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
+target/
+.idea/
+kafka-stream-uppercase.iml
 
 # Package Files #
 *.jar
